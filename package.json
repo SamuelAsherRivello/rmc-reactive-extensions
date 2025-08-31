@@ -1,7 +1,7 @@
 {
   "name": "com.rmc.rmc-reactive-extensions",
   "displayName": "RMC Reactive Extensions",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "unity": "6.2",
   "description": "RMC's fork of the https://github.com/Cysharp/R3 Reactive Extensions Library.",
   "keywords": [
@@ -14,9 +14,7 @@
     "package",
     "utility"
   ],
-  "dependencies": {
-    "com.rmc.rmc-readme": "1.2.2"
-  },
+  "dependencies": {},
   "homepage": "https://github.com/samuelasherrivello/rmc-reactive-extensions.git",
   "bugs": {
     "url": "https://github.com/samuelasherrivello/rmc-reactive-extensions/issues"
@@ -30,11 +28,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "samples": [
-    {
-      "displayName": "RMC Reactive Extensions Sample",
-      "description": "Demonstrate the RMC Reactive Extensions package",
-      "path": "RMC Reactive Extensions/Samples~/RMC Reactive Extensions Sample"
-    }
-  ]
+  "samples": []
 }
